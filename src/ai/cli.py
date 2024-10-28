@@ -15,7 +15,5 @@ def main():
                "ai.cli.main")
     console.print("See Typer documentation at https://typer.tiangolo.com/")
     
-
-
 if __name__ == "__main__":
     app()
