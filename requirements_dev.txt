@@ -18,4 +18,5 @@ llama-index-readers-file
 llama-index-multi-modal-llms-openai
 qdrant-client
 fastembed
-
+sentence_transformers
+python-dotenv

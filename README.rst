@@ -18,6 +18,9 @@ AI
 
 Python Boilerplate contains all the boilerplate you need to create a Python package.
 
+docker-compose up -d
+
+
 
 * Free software: MIT license
 * Documentation: https://ai.readthedocs.io.
